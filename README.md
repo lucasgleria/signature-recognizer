@@ -47,16 +47,16 @@ A essência do projeto é treinar uma rede neural profunda para gerar **embeddin
 
 **Núcleo do Sistema**
 
-  - **Python**: Linguagem de programação principal.
-  - **PyTorch**: Framework de Deep Learning para construção e treinamento do modelo.
-  - **torchvision**: Pacote do PyTorch para datasets e transformações de visão.
-  - **timm (PyTorch Image Models)**: Biblioteca essencial para modelos pré-treinados (EfficientNet-B0).
-  - **scikit-image**: Para operações de pré-processamento de imagens (binarização, conversão de cor, redimensionamento).
-  - **scikit-learn**: Para cálculo de métricas de avaliação (ROC, AUC) e suporte a funções matemáticas.
-  - **NumPy**: Para operações numéricas e manipulação de arrays.
-  - **Pandas**: Para manipulação e análise de DataFrames (metadados e embeddings).
-  - **Matplotlib**: Para visualização de imagens, curvas ROC e resultados.
-  - **Google Colab**: Ambiente de desenvolvimento e execução ideal.
+  - Python
+  - PyTorch
+  - torchvision
+  - timm (PyTorch Image Models)
+  - scikit-image
+  - scikit-learn
+  - NumPy
+  - Pandas
+  - Matplotlib
+  - Google Colab
 
 ## ✨ Funcionalidades
 
